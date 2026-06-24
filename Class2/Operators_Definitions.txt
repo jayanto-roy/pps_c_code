@@ -1,0 +1,35 @@
+**1) Arithmetic Operators**
+Arithmetic Operators are used to perform mathematical calculations such as addition, subtraction, multiplication, division, and modulus on numeric values.
+**Examples:** `+`, `-`, `*`, `/`, `%`
+
+**2) Relational Operators**
+Relational Operators are used to compare two values and return a result as true (1) or false (0).
+**Examples:** `==`, `!=`, `>`, `<`, `>=`, `<=`
+
+**3) Logical Operators**
+Logical Operators are used to combine or modify conditional expressions and return true (1) or false (0).
+**Examples:** `&&` (AND), `||` (OR), `!` (NOT)
+
+**4) Assignment Operators**
+Assignment Operators are used to assign values to variables and update their values.
+**Examples:** `=`, `+=`, `-=`, `*=`, `/=`, `%=`
+
+**5) Unary Operators**
+Unary Operators operate on a single operand to perform operations such as increment, decrement, or negation.
+**Examples:** `++`, `--`, `-`, `!`
+
+**6) Conditional Operator**
+The Conditional Operator (Ternary Operator) is used to make decisions in a single statement based on a condition.
+**Example:** `condition ? expression1 : expression2`
+
+**7) Special Operators**
+Special Operators are used for specific purposes such as finding memory size, accessing addresses, or members of structures.
+**Examples:** `sizeof`, `&`, `*`, `.`, `->`
+
+**8) Bitwise Operators**
+Bitwise Operators perform operations directly on the binary bits of integer values.
+**Examples:** `&`, `|`, `^`, `~`
+
+**9) Shift Operators**
+Shift Operators are used to shift the bits of a number to the left or right by a specified number of positions.
+**Examples:** `<<` (Left Shift), `>>` (Right Shift)
