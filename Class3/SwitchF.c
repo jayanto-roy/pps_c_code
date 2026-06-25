@@ -2,7 +2,7 @@
 int main(){
 
     int marks,a;
-    printf("Enter a(0 to 60): ");
+    printf("Enter a(0 to 2): ");
     scanf("%d", &a);
     // if(marks>=50)
     // {
@@ -25,6 +25,7 @@ int main(){
     //     printf("WednesDay");
     //     break;
     default:
+    printf("Invalid Input");
         break;
     }
 
