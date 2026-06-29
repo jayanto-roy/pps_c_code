@@ -59,7 +59,7 @@ public class multiMat {
         System.out.println("\n2nd Matrix:");
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-            f    System.out.print(mat2[i][j] + "\t");
+                System.out.print(mat2[i][j] + "\t");
             }
             System.out.println();
         }
