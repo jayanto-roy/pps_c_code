@@ -2,6 +2,7 @@
 #include<conio.h>
 #include<string.h>
 void main()
+
 {
 char str1[10],str2[20];
 int index,l1,l2,flag=1;
